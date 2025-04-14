@@ -1,14 +1,15 @@
 🎯 Project Objective
-Develop a quantitative model to explain and predict IBM option price movements using Greeks via linear modeling, and backtest one or more investment strategies based on those predictions.
+Develop a quantitative model to explain and predict Nvidia option price movements using Greeks via linear modeling, and backtest one or more investment strategies based on those predictions.
 
 📝 Introduction
-This project aims to create a robust quantitative model to predict IBM option price movements using Greeks. Although the project is complete, the results are not conclusive due to an insufficient number of features for the methods employed. Augmenting the feature set is a crucial next step to improve model performance.
+This project aims to create a robust quantitative model to predict Nvidia option price movements using Greeks. Although the project is complete, the results are not conclusive due to an insufficient number of features for the methods employed. Augmenting the feature set is a crucial next step to improve model performance.
 
 🧱 Project Structure
 1 - Data Preparation & Feature Engineering
 2 - Option Return Modeling Using Greeks
 3 - Backtesting Prediction-Based Trading Strategies
 🔍 Augmenting Features for Improved Performance
+
 Augmenting the feature set is an excellent approach to enhance the performance of your model. Here are some ideas for new features that you could add:
 
 1. Technical Indicators
